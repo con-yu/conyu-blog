@@ -9,7 +9,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
-      { text: '前端笔记', link: '/README' }
+      { text: '前端笔记', link: '/frontend/Module/index' },
+      { text: '杂项', link: '/frontend/regexp/Patterns&flags' }
     ],
 
     sidebar: [
