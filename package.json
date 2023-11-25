@@ -1,10 +1,11 @@
 {
+  "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.0.0-beta.7"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   }
 }
