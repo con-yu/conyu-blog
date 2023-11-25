@@ -1,0 +1,10 @@
+/* .vitepress/theme/custom.css */
+/* 主题色 */
+/* :root {
+  --vp-c-brand: #646cff;
+} */
+ 
+/* 文档图片默认铺满 */
+.vp-doc p img {
+  width: 100%;
+}
