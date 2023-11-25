@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Conyu blog",
-  head: [['link', { rel: 'icon', href: '/write.ico' }]],
+  head: [['link', { rel: 'icon', href: 'icons/write.ico' }]],
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
