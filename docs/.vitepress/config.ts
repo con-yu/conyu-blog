@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页 🏠', link: '/' },
-      { text: '机场节点 ✈', link: '/markdown-examples' },
+      { text: '示例 ✈', link: '/markdown-examples' },
       { text: '前端笔记 🌈', link: '/frontend/Module/index' },
       { text: '杂项 📦', link: '/frontend/regexp/Patterns&flags' }
     ],
