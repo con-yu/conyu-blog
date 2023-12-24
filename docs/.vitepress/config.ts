@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: '从羽谈',
+  title: '从羽的个人博客',
   head: [['link', { rel: 'icon', href: 'icon/write.ico' }]],
   description: 'A VitePress Site',
   themeConfig: {
@@ -23,11 +23,11 @@ export default defineConfig({
         ],
       },
     ],
-    // 广告
-    carbonAds: {
-      code: 'your-carbon-code as',
-      placement: 'your-carbon-placement',
-    },
+    /** 广告 */
+    // carbonAds: {
+    //   code: 'your-carbon-code as',
+    //   placement: 'your-carbon-placement',
+    // },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
   },

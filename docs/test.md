@@ -7,7 +7,7 @@ import { useData } from 'vitepress'
 // params is a Vue ref
 const { params } = useData()
 
-console.log(params.value)
+// console.log(params.value)
 </script>
 ```
 
@@ -17,7 +17,7 @@ console.log(params.value)
 // params is a Vue ref
 const all = useData()
 
-console.log(all)
+// console.log(all)
 </script>
 
 
