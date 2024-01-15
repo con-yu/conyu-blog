@@ -3,16 +3,19 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project
+  # name: ☘
+  text: conyu's personal blog
+  tagline: powered by vitepress
+  image:
+    src: gif/owl.gif
+    alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on GitHub
+      link: https://github.com/vuejs/vitepress
 
 features:
   - title: Feature A
