@@ -29,7 +29,7 @@ export default defineConfig({
     //   placement: 'your-carbon-placement',
     // },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
+    // socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
   },
   lastUpdated: true,
   markdown: {

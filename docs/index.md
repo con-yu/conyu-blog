@@ -7,7 +7,7 @@ hero:
   text: conyu's personal blog
   tagline: powered by vitepress
   image:
-    src: gif/owl.gif
+    src: gif/kitty.gif
     alt: VitePress
   actions:
     - theme: brand
