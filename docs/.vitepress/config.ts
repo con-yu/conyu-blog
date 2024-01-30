@@ -3,16 +3,16 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: '从羽的个人博客',
-  head: [['link', { rel: 'icon', href: 'icon/write.ico' }]],
+  head: [['link', { rel: 'icon', href: 'ico/write.ico' }]],
   description: 'A VitePress Site',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页 🏠', link: '/' },
-      { text: '测试特性 🤖', link: '/test' },
-      { text: '示例 ✈', link: '/markdown-examples' },
-      { text: '前端笔记 🌈', link: 'view/frontend/Module/index' },
-      { text: '杂项 📦', link: 'view/frontend/regexp/Patterns&flags' },
+      { text: '编程笔记 🤖', link: '/test' },
+      { text: '逆旅随想 ✈', link: '/markdown-examples' },
+      { text: '文海拾贝 🌈', link: 'view/frontend/Module/index' },
+      { text: '储物间 📦', link: 'view/frontend/regexp/Patterns&flags' },
     ],
     sidebar: [
       {
