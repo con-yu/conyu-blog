@@ -16,6 +16,18 @@
 /**
  * Code
  * -------------------------------------------------------------------------- */
+
+/* 代码字体 */
 .shiki .line span {
   font-family: 'cascadia code', 华文中宋, 'Courier New', monospace;
+}
+
+/* copy */
+.copy.copied::before {
+  left: -64.5px !important;
+}
+
+/* code group */
+.vp-code-group .tabs label::after {
+  height: 2px;
 }
